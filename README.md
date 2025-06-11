@@ -54,3 +54,7 @@ This information is displayed dynamically on the webpage below the button.
 If no input is provided, an error message is shown asking the user to enter a city.
 
 If the API returns an error (e.g., "city not found"), a meaningful error message is shown to the user.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/77019fc7-7676-43a9-9a76-4a6fef41a852)
