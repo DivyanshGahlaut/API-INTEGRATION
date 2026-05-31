@@ -1,16 +1,5 @@
 # API-INTEGRATION
-
-"company": CODTECH IT SOLUTIONS
-
-"NAME":DIVYANSH GAHLAUT
-
-"INTERN ID" :CT04DG831
-
 "DOMAIN" :  Full Stack Web Development
-
-"DURATION": 4 WEEKS
-
-"MENTOR" : NEELA SANTOSH
 
  *Project Description
  
